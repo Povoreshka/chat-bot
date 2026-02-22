@@ -1,4 +1,4 @@
 # chat-bot
 
-#Запуск приложения
+# Запуск приложения
 streamlit run app.py
